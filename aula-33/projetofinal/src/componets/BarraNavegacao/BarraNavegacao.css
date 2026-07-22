@@ -1,0 +1,9 @@
+.barra-navegacao{
+    width: 60vw;
+    height: 150px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+    align-items: center;
+}
